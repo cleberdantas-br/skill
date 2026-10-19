@@ -1,0 +1,7 @@
+name: checkout-assist
+version: 0.1.0
+description: Launch and control a visible Playwright shopping browser that pauses before authentication and payment.
+provides_tools:
+  - checkout_assist_start
+  - checkout_assist_step
+  - checkout_assist_status
